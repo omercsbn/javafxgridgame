@@ -1,0 +1,40 @@
+.red-text{
+    -fx-font-size: 10pt;
+}
+
+/*cell style*/
+
+.cell-empty{
+    -fx-background-color: white;
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+}
+.cell-wall{
+    -fx-background-color: #333333;
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+}
+.cell-mirror{
+    -fx-background-color: deepskyblue;
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+}
+.cell-wood{
+    -fx-background-color: palevioletred;
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+}
+
+/*menu style*/
+
+.menu-text{
+    -fx-font-size: 30pt;
+}
+.menu-score-text{
+    -fx-font-size: 10pt;
+}
+.menu-button{
+    -fx-font-size: 10pt;
+    -fx-min-width: 200;
+    -fx-min-height: 40;
+}
